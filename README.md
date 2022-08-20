@@ -1,3 +1,6 @@
+# Important Notice!!!
+dtw.py used to test the functionality of the RTL design is from https://github.com/pollen-robotics/dtw
+
 # DTW_co_processor_front_end
 Open Source Chip!!!
 
